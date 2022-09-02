@@ -1,0 +1,13 @@
+.login-btn{
+    cursor: pointer;
+    position: absolute;
+    transform: translate(5rem, 5rem);
+    border: none;
+    background-color: var(--GreenBtnColor);
+    color: var(--White);
+    width:6rem;
+    height: 2rem;
+    border-radius: .8rem;
+    font-size: 1rem;
+    letter-spacing: .05rem;
+}
